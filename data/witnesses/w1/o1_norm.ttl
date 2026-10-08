@@ -1,0 +1,3 @@
+C	-http://example.org/o1#Author	+some(http://example.org/o1#writes,http://example.org/o1#Book)
+C	+http://example.org/o1#Document	-http://example.org/o1#Book
+C	+http://example.org/o1#Person	-http://example.org/o1#Author

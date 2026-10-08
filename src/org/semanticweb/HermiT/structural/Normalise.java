@@ -44,8 +44,8 @@ public final class Normalise {
  		 System.out.println(userDirectory);
  		 
  		String file;  //args[0]
- 		//file =  userDirectory + "/data/witnesses/w1/o1.ttl";
- 		file = "C:/Users/Ernes/Documents/test_norm.owl";
+ 		file =  userDirectory + "/data/witnesses/s3_definition/o1.ttl";
+ 		//file = "C:/Users/Ernes/Documents/test_norm.owl";
  		
  		String file_norm;  //args[1]
  		//file_norm =  userDirectory + "/data/witnesses/w1/o1_norm.ttl";
